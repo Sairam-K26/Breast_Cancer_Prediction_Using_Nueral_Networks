@@ -5,7 +5,7 @@ It is an basic Breast Cancer Prediction streamlit application using The CNN
 Requirements :
 
 	* keras
-	* tensorflow (Both CPU or GPU version should do)
+	* tensorflow 
 	* PIL
 	* numpy
 
